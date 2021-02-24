@@ -1,0 +1,237 @@
+{
+    "id": 3638130376727,
+    "email": "",
+    "closed_at": null,
+    "created_at": "2021-02-24T05:30:30-05:00",
+    "updated_at": "2021-02-24T05:30:30-05:00",
+    "number": 33,
+    "note": "",
+    "token": "5f400dfbe9c65bef50b4dfd2fac56d9a",
+    "gateway": "manual",
+    "test": false,
+    "total_price": "89.95",
+    "subtotal_price": "89.95",
+    "total_weight": 0,
+    "total_tax": "5.09",
+    "taxes_included": true,
+    "currency": "USD",
+    "financial_status": "paid",
+    "confirmed": true,
+    "total_discounts": "0.00",
+    "total_line_items_price": "89.95",
+    "cart_token": null,
+    "buyer_accepts_marketing": false,
+    "name": "#1033",
+    "referring_site": null,
+    "landing_site": null,
+    "cancelled_at": null,
+    "cancel_reason": null,
+    "total_price_usd": "89.95",
+    "checkout_token": null,
+    "reference": null,
+    "user_id": 27280703522,
+    "location_id": 15470919714,
+    "source_identifier": null,
+    "source_url": null,
+    "processed_at": "2021-02-24T05:30:30-05:00",
+    "device_id": null,
+    "phone": null,
+    "customer_locale": null,
+    "app_id": 1354745,
+    "browser_ip": null,
+    "landing_site_ref": null,
+    "order_number": 1033,
+    "discount_applications": [],
+    "discount_codes": [],
+    "note_attributes": [],
+    "payment_gateway_names": [
+      "manual"
+    ],
+    "processing_method": "manual",
+    "checkout_id": null,
+    "source_name": "shopify_draft_order",
+    "fulfillment_status": null,
+    "tax_lines": [
+      {
+        "price": "4.24",
+        "rate": 0.05,
+        "title": "Virginia State Tax",
+        "price_set": {
+          "shop_money": {
+            "amount": "4.24",
+            "currency_code": "USD"
+          },
+          "presentment_money": {
+            "amount": "4.24",
+            "currency_code": "USD"
+          }
+        }
+      },
+      {
+        "price": "0.85",
+        "rate": 0.01,
+        "title": "Alexandria City Tax",
+        "price_set": {
+          "shop_money": {
+            "amount": "0.85",
+            "currency_code": "USD"
+          },
+          "presentment_money": {
+            "amount": "0.85",
+            "currency_code": "USD"
+          }
+        }
+      }
+    ],
+    "tags": "",
+    "contact_email": null,
+    "order_status_url": "https://www.habeshaeats.com/5241634850/orders/5f400dfbe9c65bef50b4dfd2fac56d9a/authenticate?key=cf1743d21506310344c27c2e277e7c59",
+    "presentment_currency": "USD",
+    "total_line_items_price_set": {
+      "shop_money": {
+        "amount": "89.95",
+        "currency_code": "USD"
+      },
+      "presentment_money": {
+        "amount": "89.95",
+        "currency_code": "USD"
+      }
+    },
+    "total_discounts_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "USD"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "USD"
+      }
+    },
+    "total_shipping_price_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "USD"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "USD"
+      }
+    },
+    "subtotal_price_set": {
+      "shop_money": {
+        "amount": "89.95",
+        "currency_code": "USD"
+      },
+      "presentment_money": {
+        "amount": "89.95",
+        "currency_code": "USD"
+      }
+    },
+    "total_price_set": {
+      "shop_money": {
+        "amount": "89.95",
+        "currency_code": "USD"
+      },
+      "presentment_money": {
+        "amount": "89.95",
+        "currency_code": "USD"
+      }
+    },
+    "total_tax_set": {
+      "shop_money": {
+        "amount": "5.09",
+        "currency_code": "USD"
+      },
+      "presentment_money": {
+        "amount": "5.09",
+        "currency_code": "USD"
+      }
+    },
+    "line_items": [
+      {
+        "id": 9584735354903,
+        "variant_id": 32925397647383,
+        "title": "Ethiopian Injera - 4 box delivery Pre Week",
+        "quantity": 1,
+        "sku": "",
+        "variant_title": null,
+        "vendor": "Ethiopian crave",
+        "fulfillment_service": "manual",
+        "product_id": 4818348539927,
+        "requires_shipping": true,
+        "taxable": true,
+        "gift_card": false,
+        "name": "Ethiopian Injera - 4 box delivery Pre Week",
+        "variant_inventory_management": null,
+        "properties": [],
+        "product_exists": true,
+        "fulfillable_quantity": 1,
+        "grams": 0,
+        "price": "89.95",
+        "total_discount": "0.00",
+        "fulfillment_status": null,
+        "price_set": {
+          "shop_money": {
+            "amount": "89.95",
+            "currency_code": "USD"
+          },
+          "presentment_money": {
+            "amount": "89.95",
+            "currency_code": "USD"
+          }
+        },
+        "total_discount_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "USD"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "USD"
+          }
+        },
+        "discount_allocations": [],
+        "duties": [],
+        "admin_graphql_api_id": "gid://shopify/LineItem/9584735354903",
+        "tax_lines": [
+          {
+            "title": "Virginia State Tax",
+            "price": "4.24",
+            "rate": 0.05,
+            "price_set": {
+              "shop_money": {
+                "amount": "4.24",
+                "currency_code": "USD"
+              },
+              "presentment_money": {
+                "amount": "4.24",
+                "currency_code": "USD"
+              }
+            }
+          },
+          {
+            "title": "Alexandria City Tax",
+            "price": "0.85",
+            "rate": 0.01,
+            "price_set": {
+              "shop_money": {
+                "amount": "0.85",
+                "currency_code": "USD"
+              },
+              "presentment_money": {
+                "amount": "0.85",
+                "currency_code": "USD"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "fulfillments": [],
+    "refunds": [],
+    "total_tip_received": "0.0",
+    "original_total_duties_set": null,
+    "current_total_duties_set": null,
+    "admin_graphql_api_id": "gid://shopify/Order/3638130376727",
+    "shipping_lines": []
+  }
